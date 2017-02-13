@@ -1,2 +1,2 @@
 # MAC-search
-Search mac address
+Search for a mac address from supplied database
